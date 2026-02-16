@@ -1,5 +1,5 @@
 # cadenellingsin21-lang.github.io
-Heloo, my name is Caden and I am a young psychology student at UWEC with a minor in computer science and a certificate in Mental Health and Well-being 
+Heloo, my name is Caden and I am a young psychology student at UWEC with a minor in computer science and a certificate in Mental Health and Well-being. I have a passiion, more like an obsesion over video games
 
 Projects 
 
@@ -8,3 +8,8 @@ Projects
  [Understanding trauma papaer](https://1drv.ms/w/c/9ec3ca650e94bdb7/IQD3TrUA6HONRKCuAx3yvPYxAejbl7KvR4IuQwSUyTl30B0?e=CRiV4c)
 
 Future Projects
+Some possible futur prijects Ideas I would like to do would be
+-Gambling in vidoe games and the effect on parents and parenting styles
+-Why is gambing/gotcha so popular in vidoegames esspecially game you bought versus free to play.
+- possiblry create my own game 
+
