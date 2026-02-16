@@ -9,7 +9,7 @@ Projects
 
 Future Projects
 Some possible futur prijects Ideas I would like to do would be
--Gambling in vidoe games and the effect on parents and parenting styles
--Why is gambing/gotcha so popular in vidoegames esspecially game you bought versus free to play.
+- Gambling in vidoe games and the effect on parents and parenting styles
+- Why is gambing/gotcha so popular in vidoegames esspecially game you bought versus free to play.
 - possiblry create my own game 
 
